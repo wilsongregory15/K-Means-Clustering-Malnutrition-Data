@@ -1,1 +1,2 @@
-# K-Means-Clustering-Malnutrition-Data
+# K-Means Clustering on Global Malnutrition Data
+This project applies the K-Means clustering algorithm to global malnutrition data in order to group countries based on similar malnutrition patterns. The goal of the project is to provide insights that can help governments and organizations identify critical areas of concern and implement targeted strategies to improve nutritional health across populations.
